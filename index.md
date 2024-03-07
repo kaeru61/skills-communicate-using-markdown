@@ -10,5 +10,5 @@ var myVar = "Hello world!"
 
 ###### Header Practice
 
-- [] Turn on GitHub
-- [] Finish caricuram
+- [ ] Turn on GitHub
+- [ ] Finish caricuram
